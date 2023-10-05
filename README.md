@@ -12,12 +12,5 @@
 - Botões de navegação entre as páginas, exibindo interatividade
 - Botões com indicadores para alternar entre os gráficos.
 
-
-<div  align="center"> 
-  <img src="C:\Users\Daiana\Downloads\relatorio-elegante-main\relatorio-elegante-main\Desafio Projeto Relatório de Vendas Elegante com Power BI\Imagens.png">
-</div>
-
-
-<div  align="center"> 
-  <img src="C:\Users\Daiana\Downloads\relatorio-elegante-main\relatorio-elegante-main\Desafio Projeto Relatório de Vendas Elegante com Power BI\Imagens.png">
-</div>
+## Imagens do Relatório postado no Power BI:
+- ![image](Relatório de Lucros.png)
