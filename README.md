@@ -1,4 +1,4 @@
-# Desafio DIO: Projeto Relatório de Vendas Elegante com Power BI
+# : Projeto Relatório de Vendas Elegante com Power BI
 
 
 🎓Construir um relatório de banco de dados de vendas.
